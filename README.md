@@ -795,6 +795,8 @@ Time Elapsed 00:00:00.98
 
 C:\Users\hp\Downloads\curl-8.19.0\curl-8.19.0\Visual Studio 17 2022\lib>
 
-now run the following command to get the libcurl_object.lib file.
+now run the following command to get the libcurl_impl.lib file.
+
+finally the folder should contain - libcurl.ddl, libcurl.lib, libcurl_imp.exp and libcurl_imp.lib files in the C:\Users\hp\Downloads\curl-8.19.0\curl-8.19.0\Visual Studio 17 2022\lib\Release folder.
 
 
