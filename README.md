@@ -752,7 +752,7 @@ The Libcurl.lib file will be placed in the Release folder : C:\Users\hp\Download
 
 now run the following command to get the libcurl_imp.lib file.
 
-msbuild libcurl_object.vcxproj /t:Build /p:Configuration=Release /p:Platform=x64
+msbuild libcurl_shared.vcxproj /t:Build /p:Configuration=Release /p:Platform=x64
 
 
 C:\Users\hp\Downloads\curl-8.19.0\curl-8.19.0\Visual Studio 17 2022\lib>msbuild libcurl_object.vcxproj /t:Build /p:Configuration=Release /p:Platform=x64
